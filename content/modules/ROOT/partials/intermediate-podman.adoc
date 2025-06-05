@@ -184,7 +184,7 @@ registry.access.redhat.com/ubi10/ubi-minimal  latest      94287c165ee4  2 days a
 
 === Tag Images
 
-Container images can also be tagged with convenient (ie:custom names).  This could make it more intuitive to understand what they 
+Container images can also be tagged with convenient, custom names.  This could make it more intuitive to understand what they 
 contain, especially after an image has been customized.
 
 [{format_cmd}]
