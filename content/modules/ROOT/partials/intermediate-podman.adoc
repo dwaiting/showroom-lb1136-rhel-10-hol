@@ -64,7 +64,7 @@ Here is a list of the fundamental podman commands and their purpose:
 
   * *podman images* - list images
   * *podman ps* - lists running containers
-  * *podman pull* - pulls (copies) container image from repository (ie: redhat and/or docker hub)
+  * *podman pull* - pulls (copies) container image from repository (e.g. registry.redhat.io, hub.docker.com, etc.)
   * *podman run* - run a container
   * *podman inspect* - view facts about a container
   * *podman logs* - display logs of a container (can be used with --follow)
